@@ -1,1 +1,3 @@
 iqwqwqwqwqwqwqw
+select Alena, Koly, Alice
+from my_family;
