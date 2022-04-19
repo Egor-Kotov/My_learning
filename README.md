@@ -1,2 +1,2 @@
 # Learning
-certificates
+certificates and notes
